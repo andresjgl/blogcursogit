@@ -5,3 +5,17 @@ body {
     padding: 0;
     text-align: center;
 }
+
+header {
+    background-color: midnightblue;
+    color: white;
+    font-weight: bolder;
+    margin: 0;
+    padding: 16px 8px;
+    text-align: left;
+}
+
+span {
+    color: white;
+    font-weight: lighter;
+}
